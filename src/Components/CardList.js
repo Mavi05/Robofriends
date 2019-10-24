@@ -19,7 +19,7 @@ const CardList =({robots}) =>{
 		return(
 			// Inline style in JSX accepts object, {} for js, {} for object
 			<div style={{color: '#9EEBCF'}} className='f3 ma3'> 
-				Oops! Such Empty..
+				Oops! User Not Found !!
 			</div>
 			);
 	}
